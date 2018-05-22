@@ -1,0 +1,1632 @@
+2018-05-18 16:31:58 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 16:32:01 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 16:32:01 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/employee.txt
+2018-05-18 16:32:01 DEBUG FileLoaderImpl:110 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 16:32:01 DEBUG FileLoaderImpl:110 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 16:32:01 DEBUG FileLoaderImpl:110 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 16:32:01 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 16:32:01 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/company.txt
+2018-05-18 16:32:01 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 16:32:01 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 16:32:01 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 16:32:01 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@25c53f74[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 16:49:45 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 16:49:47 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 16:49:47 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/employee.txt
+2018-05-18 16:49:47 DEBUG FileLoaderImpl:110 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 16:49:47 DEBUG FileLoaderImpl:110 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 16:49:47 DEBUG FileLoaderImpl:110 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 16:49:47 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 16:49:47 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/company.txt
+2018-05-18 16:49:47 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 16:49:47 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 16:49:47 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 16:49:47 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@7a7d1b47[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 16:50:26 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 16:50:28 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 16:50:28 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/employee.txt
+2018-05-18 16:50:28 DEBUG FileLoaderImpl:110 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 16:50:28 DEBUG FileLoaderImpl:110 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 16:50:28 DEBUG FileLoaderImpl:110 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 16:50:28 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 16:50:28 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/company.txt
+2018-05-18 16:50:28 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 16:50:28 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 16:50:28 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 16:50:29 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@7a7d1b47[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 17:02:32 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 17:02:34 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 17:02:34 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/employee.txt
+2018-05-18 17:02:34 DEBUG FileLoaderImpl:110 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 17:02:34 DEBUG FileLoaderImpl:110 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 17:02:34 DEBUG FileLoaderImpl:110 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 17:02:34 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 17:02:34 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/company.txt
+2018-05-18 17:02:34 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 17:02:34 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 17:02:34 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 17:02:34 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@7a7d1b47[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-19 09:15:45 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 09:15:50 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 09:15:50 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/employee.txt
+2018-05-19 09:15:50 DEBUG FileLoaderImpl:110 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-19 09:15:50 DEBUG FileLoaderImpl:110 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-19 09:15:50 DEBUG FileLoaderImpl:110 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-19 09:15:50 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-19 09:15:50 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/company.txt
+2018-05-19 09:15:50 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-19 09:15:50 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-19 09:15:50 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-19 09:15:50 DEBUG CompanySaverImpl:19 - 
+2018-05-19 09:15:50 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@6482eef[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook], com.bizleap.commons.domain.Company@1fcf9739[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty], com.bizleap.commons.domain.Company@5b498842[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]]
+2018-05-19 09:15:50 DEBUG CompanySaverImpl:21 - 
+2018-05-19 09:15:50 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@6482eef[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-19 09:15:52 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 09:15:52 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1fcf9739[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty]
+2018-05-19 09:15:52 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 09:15:52 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@5b498842[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]
+2018-05-19 09:15:52 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 09:58:51 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 09:58:56 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 09:58:56 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/employee.txt
+2018-05-19 09:58:56 DEBUG FileLoaderImpl:110 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-19 09:58:56 DEBUG FileLoaderImpl:110 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-19 09:58:56 DEBUG FileLoaderImpl:110 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-19 09:58:56 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-19 09:58:56 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/company.txt
+2018-05-19 09:58:56 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-19 09:58:56 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-19 09:58:56 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-19 09:58:56 DEBUG CompanySaverImpl:19 - 
+2018-05-19 09:58:56 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@6482eef[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook], com.bizleap.commons.domain.Company@1fcf9739[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty], com.bizleap.commons.domain.Company@5b498842[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]]
+2018-05-19 09:58:56 DEBUG CompanySaverImpl:21 - 
+2018-05-19 09:58:56 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@6482eef[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-19 09:58:56 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 09:58:56 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1fcf9739[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty]
+2018-05-19 09:58:56 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 09:58:56 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@5b498842[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]
+2018-05-19 09:58:56 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 11:00:36 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 11:00:43 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 11:00:43 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/employee.txt
+2018-05-19 11:00:43 DEBUG FileLoaderImpl:110 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-19 11:00:43 DEBUG FileLoaderImpl:110 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-19 11:00:43 DEBUG FileLoaderImpl:110 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-19 11:00:43 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-19 11:00:43 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/company.txt
+2018-05-19 11:00:43 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-19 11:00:43 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-19 11:00:43 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-19 11:00:43 DEBUG CompanySaverImpl:19 - 
+2018-05-19 11:00:43 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@1fcf9739[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook], com.bizleap.commons.domain.Company@5b498842[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty], com.bizleap.commons.domain.Company@1cb37ee4[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]]
+2018-05-19 11:00:43 DEBUG CompanySaverImpl:21 - 
+2018-05-19 11:00:43 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1fcf9739[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-19 11:00:44 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 11:00:44 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@5b498842[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty]
+2018-05-19 11:00:44 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 11:00:44 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1cb37ee4[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]
+2018-05-19 11:00:44 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 11:03:20 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 11:03:25 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 11:03:25 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/employee.txt
+2018-05-19 11:03:25 DEBUG FileLoaderImpl:110 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-19 11:03:25 DEBUG FileLoaderImpl:110 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-19 11:03:25 DEBUG FileLoaderImpl:110 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-19 11:03:25 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-19 11:03:25 DEBUG FileLoaderImpl:47 - About to read file: D:/bizleap/ds/data/company.txt
+2018-05-19 11:03:25 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-19 11:03:25 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-19 11:03:25 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-19 11:03:25 DEBUG CompanySaverImpl:19 - 
+2018-05-19 11:03:25 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@1fcf9739[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook], com.bizleap.commons.domain.Company@5b498842[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty], com.bizleap.commons.domain.Company@1cb37ee4[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]]
+2018-05-19 11:03:25 DEBUG CompanySaverImpl:21 - 
+2018-05-19 11:03:25 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1fcf9739[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-19 11:03:26 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 11:03:26 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@5b498842[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty]
+2018-05-19 11:03:26 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 11:03:26 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1cb37ee4[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]
+2018-05-19 11:03:26 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:27:46 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 22:27:52 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 22:27:52 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-18 22:27:52 DEBUG FileLoaderImpl:110 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 22:27:52 DEBUG FileLoaderImpl:110 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 22:27:52 DEBUG FileLoaderImpl:110 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 22:27:52 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 22:27:52 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-18 22:27:52 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 22:27:52 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 22:27:52 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 22:27:52 DEBUG CompanySaverImpl:19 - 
+2018-05-18 22:27:52 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@6482eef[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook], com.bizleap.commons.domain.Company@1fcf9739[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty], com.bizleap.commons.domain.Company@5b498842[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]]
+2018-05-18 22:27:52 DEBUG CompanySaverImpl:21 - 
+2018-05-18 22:27:52 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@6482eef[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 22:27:53 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:27:53 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1fcf9739[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty]
+2018-05-18 22:27:54 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:27:54 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@5b498842[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]
+2018-05-18 22:27:54 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:32:38 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000, Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester, 00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - Current input line: 3: EMP03,John Mark,39,Tester, 00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:32:43 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: " 00000"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:64)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@gmailcom,09-234319212,COMP02
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45 ,Project Manager ,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - Current input line: 5: EMP05,Bob Gilman,45 ,Project Manager ,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-18 22:32:43 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: "45 "
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:62)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester, 400000,JohnMark@gmail.com,09-343575684,COMP02
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - Current input line: 6: EMP06,John Mark,39,Tester, 400000,JohnMark@gmail.com,09-343575684,COMP02
+2018-05-18 22:32:43 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: " 400000"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:64)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob Gilman,45 ,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - Current input line: 8: EMP08,Bob Gilman,45 ,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-18 22:32:43 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: "45 "
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:62)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:110 - line is: EMP09,John Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - Current input line: 9: EMP09,John Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:32:43 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: " 39"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:62)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:29 - 
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:33 - -----------------------------------------------
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:34 -    Errors encountered while loading!!
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:35 - -----------------------------------------------
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - Line with error(s) is:
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - 3:EMP03,John Mark,39,Tester, 00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - 5:EMP05,Bob Gilman,45 ,Project Manager ,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - 6:EMP06,John Mark,39,Tester, 400000,JohnMark@gmail.com,09-343575684,COMP02
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - 8:EMP08,Bob Gilman,45 ,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-18 22:32:43 DEBUG FileLoaderImpl:15 - 9:EMP09,John Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:32:43 ERROR FileLoaderImpl:140 - Quiting due to errors!!
+2018-05-18 22:34:33 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000, Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@gmailcom,09-234319212,COMP02
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP02
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: EMP09,John Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas
+2018-05-18 22:34:37 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith
+2018-05-18 22:34:37 DEBUG CompanySaverImpl:19 - 
+2018-05-18 22:34:37 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@5bcb04cb[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@385e36d4[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@2fc2a205[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-18 22:34:37 DEBUG CompanySaverImpl:21 - 
+2018-05-18 22:34:37 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@5bcb04cb[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-18 22:34:38 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:34:38 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@385e36d4[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-18 22:34:38 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:34:38 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2fc2a205[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-18 22:34:38 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:35:39 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000, Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@gmailcom,09-234319212,COMP02
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP02
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: EMP09,John Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas
+2018-05-18 22:35:43 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith
+2018-05-18 22:35:44 DEBUG CompanySaverImpl:19 - 
+2018-05-18 22:35:44 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@5bcb04cb[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@385e36d4[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@2fc2a205[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-18 22:35:44 DEBUG CompanySaverImpl:21 - 
+2018-05-18 22:35:44 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@5bcb04cb[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-18 22:35:44 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:35:44 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@385e36d4[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-18 22:35:44 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:35:44 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2fc2a205[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-18 22:35:44 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:44:03 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 22:45:42 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000, Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@gmailcom,09-234319212,COMP02
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP02
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: EMP09,John Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas
+2018-05-18 22:45:50 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith
+2018-05-18 22:45:50 DEBUG CompanySaverImpl:19 - 
+2018-05-18 22:45:50 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@5bcb04cb[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@385e36d4[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@2fc2a205[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-18 22:45:50 DEBUG CompanySaverImpl:21 - 
+2018-05-18 22:45:50 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@5bcb04cb[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-18 22:45:51 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:45:51 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@385e36d4[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-18 22:45:51 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:45:51 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2fc2a205[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-18 22:45:51 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:49:32 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 22:49:39 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 22:49:39 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-18 22:49:39 DEBUG FileLoaderImpl:110 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 22:49:39 DEBUG FileLoaderImpl:110 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 22:49:39 DEBUG FileLoaderImpl:110 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 22:49:39 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 22:49:39 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-18 22:49:39 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 22:49:39 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 22:49:39 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 22:49:39 DEBUG CompanySaverImpl:19 - 
+2018-05-18 22:49:39 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@6482eef[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook], com.bizleap.commons.domain.Company@1fcf9739[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty], com.bizleap.commons.domain.Company@5b498842[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]]
+2018-05-18 22:49:39 DEBUG CompanySaverImpl:21 - 
+2018-05-18 22:49:39 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@6482eef[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 22:49:40 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:49:40 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1fcf9739[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty]
+2018-05-18 22:49:40 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-18 22:49:40 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@5b498842[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]
+2018-05-18 22:49:40 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 00:39:58 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000, Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester, 00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - Current input line: 3: EMP03,John Mark,39,Tester, 00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:40:06 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: " 00000"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:64)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45 ,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - Current input line: 5: EMP05,Bob Gilman,45 ,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 00:40:06 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: "45 "
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:62)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester, 400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - Current input line: 6: EMP06,John Mark,39,Tester, 400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 00:40:06 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: " 400000"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:64)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45 ,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - Current input line: 8: EMP08,Bob_Gilman,45 ,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 00:40:06 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: "45 "
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:62)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - Current input line: 9: EMP09,John_Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:40:06 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: " 39"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:62)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:29 - 
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:33 - -----------------------------------------------
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:34 -    Errors encountered while loading!!
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:35 - -----------------------------------------------
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - Line with error(s) is:
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - 3:EMP03,John Mark,39,Tester, 00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - 5:EMP05,Bob Gilman,45 ,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - 6:EMP06,John Mark,39,Tester, 400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - 8:EMP08,Bob_Gilman,45 ,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 00:40:06 DEBUG FileLoaderImpl:15 - 9:EMP09,John_Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:40:06 ERROR FileLoaderImpl:140 - Quiting due to errors!!
+2018-05-19 00:41:35 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000, Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester, 00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - Current input line: 3: EMP03,John Mark,39,Tester, 00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:41:39 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: " 00000"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:64)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45 ,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - Current input line: 5: EMP05,Bob Gilman,45 ,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 00:41:39 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: "45 "
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:62)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester, 400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - Current input line: 6: EMP06,John Mark,39,Tester, 400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 00:41:39 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: " 400000"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:64)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45 ,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - Current input line: 8: EMP08,Bob_Gilman,45 ,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 00:41:39 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: "45 "
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:62)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - Current input line: 9: EMP09,John_Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:41:39 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: " 39"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:62)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:29 - 
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:33 - -----------------------------------------------
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:34 -    Errors encountered while loading!!
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:35 - -----------------------------------------------
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - Line with error(s) is:
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - 3:EMP03,John Mark,39,Tester, 00000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - 5:EMP05,Bob Gilman,45 ,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - 6:EMP06,John Mark,39,Tester, 400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - 8:EMP08,Bob_Gilman,45 ,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 00:41:39 DEBUG FileLoaderImpl:15 - 9:EMP09,John_Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:41:39 ERROR FileLoaderImpl:140 - Quiting due to errors!!
+2018-05-19 00:43:00 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:15 - Current input line: 9: EMP09,John_Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:43:05 ERROR FileLoaderImpl:85 - Error encountered while passing - employee.txt
+java.lang.NumberFormatException: For input string: " 39"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.bizleap.commons.domain.Employee.parseEmployee(Employee.java:62)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadEmployee(DataLoaderImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.DataLoaderImpl.loadData(DataLoaderImpl.java:77)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:33)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:29 - 
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:33 - -----------------------------------------------
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:34 -    Errors encountered while loading!!
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:35 - -----------------------------------------------
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:15 - Line with error(s) is:
+2018-05-19 00:43:05 DEBUG FileLoaderImpl:15 - 9:EMP09,John_Mark, 39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:43:05 ERROR FileLoaderImpl:140 - Quiting due to errors!!
+2018-05-19 00:43:52 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-19 00:43:57 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-19 00:43:57 DEBUG CompanySaverImpl:19 - 
+2018-05-19 00:43:57 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@6482eef[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@1fcf9739[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-19 00:43:57 DEBUG CompanySaverImpl:21 - 
+2018-05-19 00:43:57 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-19 00:43:58 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 00:43:58 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@6482eef[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-19 00:43:58 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 00:43:58 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1fcf9739[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-19 00:43:58 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 00:53:38 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-19 00:53:46 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-19 00:53:46 DEBUG CompanySaverImpl:19 - 
+2018-05-19 00:53:46 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@6482eef[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@1fcf9739[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-19 00:53:46 DEBUG CompanySaverImpl:21 - 
+2018-05-19 00:53:46 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-19 00:53:46 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 00:53:46 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@6482eef[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-19 00:53:47 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 00:53:47 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1fcf9739[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-19 00:53:47 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 00:53:47 INFO  DataManagerImplTest:36 - Employee List: [com.bizleap.commons.domain.Employee@25da615a[boId=EMP01,name=Alice Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP01], com.bizleap.commons.domain.Employee@39c1fe0b[boId=EMP02,name=Bob Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@36ddaebf[boId=EMP03,name=John Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=500000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@7c29adc8[boId=EMP04,name=Smith,email=Smith@_gmailcom,phone=09-234319212,title=Developer,age=35,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@4b2e3e8f[boId=EMP05,name=Bob Gilman,email=Bobgilman_@gmail.com,phone=09-658023212,title=Project Manager ,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@4bbb49b0[boId=EMP06,name=John Mark,email=JohnMark_@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@f096f37[boId=EMP07,name=Alice_Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@3effd4f3[boId=EMP08,name=Bob_Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@41f4fe5[boId=EMP09,name=John_Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP03]]
+2018-05-19 00:53:47 INFO  DataManagerImplTest:42 - Company List: [com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@6482eef[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@1fcf9739[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-19 00:57:39 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-19 00:57:43 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:39 - 
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:41 - >>>>>>>>>>>>>> ERROR: Object Link Error <<<<<<<<<<<<<
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:43 -    Employee in company cannot be linked!
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:44 - -----------------------------------------------
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:15 - >>>> Source object is :::: com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:15 - ----------------------------------
+2018-05-19 00:57:43 ERROR AssociationMapperImpl:97 - 
+java.lang.Exception: Object Linkage Exception
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.handleLinkageError(AssociationMapperImpl.java:97)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.handleLinkageError(AssociationMapperImpl.java:91)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.addEmployeeToCompany(AssociationMapperImpl.java:53)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.processCompanyAssociations(AssociationMapperImpl.java:80)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.buildAssociations(AssociationMapperImpl.java:86)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:35)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:39 - 
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:41 - >>>>>>>>>>>>>> ERROR: Object Link Error <<<<<<<<<<<<<
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:43 -    Employee in company cannot be linked!
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:44 - -----------------------------------------------
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:15 - >>>> Source object is :::: com.bizleap.commons.domain.Company@2881ad47[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:15 - ----------------------------------
+2018-05-19 00:57:43 ERROR AssociationMapperImpl:97 - 
+java.lang.Exception: Object Linkage Exception
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.handleLinkageError(AssociationMapperImpl.java:97)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.handleLinkageError(AssociationMapperImpl.java:91)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.addEmployeeToCompany(AssociationMapperImpl.java:53)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.processCompanyAssociations(AssociationMapperImpl.java:80)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.buildAssociations(AssociationMapperImpl.java:86)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:35)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:39 - 
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:41 - >>>>>>>>>>>>>> ERROR: Object Link Error <<<<<<<<<<<<<
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:43 -    Employee in company cannot be linked!
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:44 - -----------------------------------------------
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:15 - >>>> Source object is :::: com.bizleap.commons.domain.Company@62ce72ff[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-19 00:57:43 DEBUG AssociationMapperImpl:15 - ----------------------------------
+2018-05-19 00:57:43 ERROR AssociationMapperImpl:97 - 
+java.lang.Exception: Object Linkage Exception
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.handleLinkageError(AssociationMapperImpl.java:97)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.handleLinkageError(AssociationMapperImpl.java:91)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.addEmployeeToCompany(AssociationMapperImpl.java:53)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.processCompanyAssociations(AssociationMapperImpl.java:80)
+	at com.bizleap.training.ds.loader.impl.AssociationMapperImpl.buildAssociations(AssociationMapperImpl.java:86)
+	at com.bizleap.training.ds.loader.impl.DataManagerImpl.load(DataManagerImpl.java:35)
+	at com.bizleap.training.ds.loader.impl.test.DataManagerImplTest.testLoad(DataManagerImplTest.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:254)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:193)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+2018-05-19 00:57:43 DEBUG CompanySaverImpl:19 - 
+2018-05-19 00:57:43 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@2881ad47[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@62ce72ff[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-19 00:57:43 DEBUG CompanySaverImpl:21 - 
+2018-05-19 00:57:43 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-19 00:57:44 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 00:57:44 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2881ad47[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-19 00:57:44 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 00:57:44 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@62ce72ff[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-19 00:57:44 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 00:57:44 INFO  DataManagerImplTest:36 - Employee List: [com.bizleap.commons.domain.Employee@41bf79da[boId=EMP01,name=Alice Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP01], com.bizleap.commons.domain.Employee@4c48fe92[boId=EMP02,name=Bob Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@440eaa07[boId=EMP03,name=John Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=500000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@36ddaebf[boId=EMP04,name=Smith,email=Smith@_gmailcom,phone=09-234319212,title=Developer,age=35,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@3cff0139[boId=EMP05,name=Bob Gilman,email=Bobgilman_@gmail.com,phone=09-658023212,title=Project Manager ,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@f096f37[boId=EMP06,name=John Mark,email=JohnMark_@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@6b00ad9[boId=EMP07,name=Alice_Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@7afbf561[boId=EMP08,name=Bob_Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@4e73b552[boId=EMP09,name=John_Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP03]]
+2018-05-19 00:57:44 INFO  DataManagerImplTest:42 - Company List: [com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@2881ad47[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@62ce72ff[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-19 01:01:47 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-19 01:01:52 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-19 01:01:52 DEBUG CompanySaverImpl:19 - 
+2018-05-19 01:01:52 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@6482eef[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@1fcf9739[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-19 01:01:52 DEBUG CompanySaverImpl:21 - 
+2018-05-19 01:01:52 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-19 01:01:52 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 01:01:52 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@6482eef[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-19 01:01:53 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 01:01:53 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1fcf9739[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-19 01:01:53 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-19 01:01:53 INFO  DataManagerImplTest:36 - Employee List: [com.bizleap.commons.domain.Employee@25da615a[boId=EMP01,name=Alice Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP01], com.bizleap.commons.domain.Employee@39c1fe0b[boId=EMP02,name=Bob Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@514cd540[boId=EMP03,name=John Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=500000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@fca387[boId=EMP04,name=Smith,email=Smith@_gmailcom,phone=09-234319212,title=Developer,age=35,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@30e6a763[boId=EMP05,name=Bob Gilman,email=Bobgilman_@gmail.com,phone=09-658023212,title=Project Manager ,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@3d6a6bee[boId=EMP06,name=John Mark,email=JohnMark_@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@390877d2[boId=EMP07,name=Alice_Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@440eaa07[boId=EMP08,name=Bob_Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@624a24f6[boId=EMP09,name=John_Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP03]]
+2018-05-19 01:01:53 INFO  DataManagerImplTest:42 - Company List: [com.bizleap.commons.domain.Company@af9a89f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@6482eef[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@1fcf9739[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-20 21:44:18 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-20 21:44:58 INFO  DataManagerImplTest:43 - Employee List : []
+2018-05-20 21:48:53 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-20 21:49:02 INFO  DataManagerImplTest:43 - Employee List : []
+2018-05-20 22:05:39 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-20 22:05:49 INFO  DataManagerImplTest:43 - Employee List : 1
+2018-05-20 22:14:11 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-20 22:14:23 INFO  DataManagerImplTest:43 - Employee List : 1
+2018-05-20 22:16:28 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-20 22:16:39 INFO  DataManagerImplTest:43 - Company list : 1
+2018-05-20 22:16:39 INFO  DataManagerImplTest:45 - Employee list : 1
+2018-05-21 16:46:37 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-21 16:46:44 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-21 16:46:44 DEBUG CompanySaverImpl:19 - 
+2018-05-21 16:46:44 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 16:46:44 DEBUG CompanySaverImpl:21 - 
+2018-05-21 16:46:44 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-21 16:46:45 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 16:46:45 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-21 16:46:45 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 16:46:45 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-21 16:46:45 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 16:55:06 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-21 16:55:11 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-21 16:55:11 DEBUG CompanySaverImpl:19 - 
+2018-05-21 16:55:11 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@7495699f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@7c2312fa[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@4cb0a000[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 16:55:11 DEBUG CompanySaverImpl:21 - 
+2018-05-21 16:55:11 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@7495699f[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-21 16:55:12 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 16:55:12 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@7c2312fa[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-21 16:55:12 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 16:55:12 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@4cb0a000[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-21 16:55:12 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:10:25 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-21 17:10:29 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-21 17:10:29 DEBUG CompanySaverImpl:19 - 
+2018-05-21 17:10:29 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@3fd2322d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@56ac5c80[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@69e49a81[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 17:10:29 DEBUG CompanySaverImpl:21 - 
+2018-05-21 17:10:29 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@3fd2322d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-21 17:10:29 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:10:29 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@56ac5c80[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-21 17:10:29 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:10:29 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@69e49a81[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-21 17:10:29 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:10:29 INFO  DataManagerImplTest:61 - Employee List: [com.bizleap.commons.domain.Employee@5ff90645[boId=EMP01,name=Alice Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP01], com.bizleap.commons.domain.Employee@213c3543[boId=EMP02,name=Bob Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@6b00ad9[boId=EMP03,name=John Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=500000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@7c29adc8[boId=EMP04,name=Smith,email=Smith@_gmailcom,phone=09-234319212,title=Developer,age=35,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@3effd4f3[boId=EMP05,name=Bob Gilman,email=Bobgilman_@gmail.com,phone=09-658023212,title=Project Manager ,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@11d4dbd6[boId=EMP06,name=John Mark,email=JohnMark_@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@2f98635e[boId=EMP07,name=Alice_Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@221dad51[boId=EMP08,name=Bob_Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@6b2e0f78[boId=EMP09,name=John_Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP03]]
+2018-05-21 17:10:30 INFO  DataManagerImplTest:67 - Company List: [com.bizleap.commons.domain.Company@3fd2322d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@56ac5c80[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@69e49a81[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 17:13:35 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-21 17:13:40 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-21 17:13:40 DEBUG CompanySaverImpl:19 - 
+2018-05-21 17:13:40 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 17:13:40 DEBUG CompanySaverImpl:21 - 
+2018-05-21 17:13:40 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-21 17:13:40 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:13:40 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-21 17:13:40 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:13:40 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-21 17:13:40 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:20:18 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 17:27:32 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-21 17:27:37 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-21 17:27:37 DEBUG CompanySaverImpl:19 - 
+2018-05-21 17:27:37 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 17:27:37 DEBUG CompanySaverImpl:21 - 
+2018-05-21 17:27:37 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-21 17:27:37 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:27:37 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-21 17:27:38 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:27:38 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-21 17:27:38 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:30:44 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-21 17:30:48 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-21 17:30:48 DEBUG CompanySaverImpl:19 - 
+2018-05-21 17:30:48 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 17:30:48 DEBUG CompanySaverImpl:21 - 
+2018-05-21 17:30:48 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-21 17:30:49 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:30:49 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-21 17:30:49 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:30:49 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-21 17:30:49 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:32:57 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 17:33:02 INFO  DataManagerImplTest:44 - Number of Companies : []
+2018-05-21 17:37:46 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 17:39:34 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-21 17:39:39 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-21 17:39:39 DEBUG CompanySaverImpl:19 - 
+2018-05-21 17:39:39 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 17:39:39 DEBUG CompanySaverImpl:21 - 
+2018-05-21 17:39:39 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-21 17:39:39 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:39:39 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-21 17:39:40 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 17:39:40 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-21 17:39:40 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 20:32:59 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-21 20:33:06 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-21 20:33:06 DEBUG CompanySaverImpl:19 - 
+2018-05-21 20:33:06 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 20:33:06 DEBUG CompanySaverImpl:21 - 
+2018-05-21 20:33:06 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@64a4dd8d[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-21 20:33:06 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 20:33:06 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2dddc1b9[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-21 20:33:06 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 20:33:06 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@65a5d4f9[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-21 20:33:06 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 21:24:52 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-21 21:24:59 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-21 21:24:59 DEBUG CompanySaverImpl:19 - 
+2018-05-21 21:24:59 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@2881ad47[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@2bef09c0[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@62ce72ff[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 21:24:59 DEBUG CompanySaverImpl:21 - 
+2018-05-21 21:24:59 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2881ad47[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-21 21:24:59 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 21:24:59 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@2bef09c0[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-21 21:24:59 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 21:24:59 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@62ce72ff[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-21 21:25:00 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 21:25:00 INFO  DataManagerImplTest:37 - Employee List: [com.bizleap.commons.domain.Employee@7fb33394[boId=EMP01,name=Alice Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP01], com.bizleap.commons.domain.Employee@30e6a763[boId=EMP02,name=Bob Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@3ec2ecea[boId=EMP03,name=John Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=500000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@3d6a6bee[boId=EMP04,name=Smith,email=Smith@_gmailcom,phone=09-234319212,title=Developer,age=35,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@670ce331[boId=EMP05,name=Bob Gilman,email=Bobgilman_@gmail.com,phone=09-658023212,title=Project Manager ,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@4bbb49b0[boId=EMP06,name=John Mark,email=JohnMark_@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@624a24f6[boId=EMP07,name=Alice_Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@7c9bdee9[boId=EMP08,name=Bob_Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@6b0615ae[boId=EMP09,name=John_Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP03]]
+2018-05-21 21:25:00 INFO  DataManagerImplTest:43 - Company List: [com.bizleap.commons.domain.Company@2881ad47[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@2bef09c0[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@62ce72ff[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 21:33:53 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/employee.txt
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: EMP01,Alice Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP01
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: EMP02,Bob Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP02
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: EMP03,John Mark,39,Tester,500000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: EMP04,Smith,35,Developer,400000,Smith@_gmailcom,09-234319212,COMP02
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: EMP05,Bob Gilman,45,Project Manager ,600000,Bobgilman_@gmail.com,09-658023212,COMP02
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: EMP06,John Mark,39,Tester,400000,JohnMark_@gmail.com,09-343575684,COMP02
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: EMP07,Alice_Kim,33,Software Developer,400000,Alicekim@gmailcom,09-234312212,COMP03
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: EMP08,Bob_Gilman,45,Project Manager,600000,Bobgilman@gmail.com,09-658023212,COMP03
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: EMP09,John_Mark,39,Tester,400000,JohnMark@gmail.com,09-343575684,COMP03
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:47 - About to read file: C:/bizleap/ds/logs/data/company.txt
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: COMP01,Apple,US,7807907,Apple@gmail.com,Jhon,
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: COMP02,IBM,US,7423941,IBM@gmail.com,Thomas,
+2018-05-21 21:33:58 DEBUG FileLoaderImpl:110 - line is: COMP03,Adobe,US,5768954,Adobe@gmail.com,Smith,
+2018-05-21 21:33:58 DEBUG CompanySaverImpl:19 - 
+2018-05-21 21:33:58 DEBUG CompanySaverImpl:20 - [com.bizleap.commons.domain.Company@1cb37ee4[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@5bcb04cb[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@385e36d4[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 21:33:58 DEBUG CompanySaverImpl:21 - 
+2018-05-21 21:33:58 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@1cb37ee4[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon]
+2018-05-21 21:33:58 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 21:33:58 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@5bcb04cb[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas]
+2018-05-21 21:33:59 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 21:33:59 DEBUG CompanySaverImpl:15 - About to save: com.bizleap.commons.domain.Company@385e36d4[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]
+2018-05-21 21:33:59 DEBUG CompanySaverImpl:15 - Company successfully saved.
+2018-05-21 21:33:59 INFO  DataManagerImplTest:35 - Employee List: [com.bizleap.commons.domain.Employee@75308740[boId=EMP01,name=Alice Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP01], com.bizleap.commons.domain.Employee@fca387[boId=EMP02,name=Bob Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@eb507b9[boId=EMP03,name=John Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=500000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@30e6a763[boId=EMP04,name=Smith,email=Smith@_gmailcom,phone=09-234319212,title=Developer,age=35,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@3d6a6bee[boId=EMP05,name=Bob Gilman,email=Bobgilman_@gmail.com,phone=09-658023212,title=Project Manager ,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@670ce331[boId=EMP06,name=John Mark,email=JohnMark_@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@440eaa07[boId=EMP07,name=Alice_Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@624a24f6[boId=EMP08,name=Bob_Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@7c9bdee9[boId=EMP09,name=John_Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP03]]
+2018-05-21 21:33:59 INFO  DataManagerImplTest:41 - Company List: [com.bizleap.commons.domain.Company@1cb37ee4[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@5bcb04cb[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@385e36d4[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 21:51:17 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 22:08:55 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 22:13:23 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 22:16:22 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 22:21:24 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 22:59:17 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 22:59:21 INFO  DataManagerImplTest:34 - Number of Employees : [com.bizleap.commons.domain.Employee@11b377c5[boId=EMP01,name=Alice Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP01], com.bizleap.commons.domain.Employee@7bca6fac[boId=EMP02,name=Bob Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@5c60b0a0[boId=EMP04,name=Smith,email=Smith@_gmailcom,phone=09-234319212,title=Developer,age=35,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@7a2b1eb4[boId=EMP05,name=Bob Gilman,email=Bobgilman_@gmail.com,phone=09-658023212,title=Project Manager ,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@702c436b[boId=EMP06,name=John Mark,email=JohnMark_@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@10fbbdb[boId=EMP03,name=John Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=500000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@23f3dbf0[boId=EMP07,name=Alice_Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@31d6f3fe[boId=EMP08,name=Bob_Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@760cf594[boId=EMP09,name=John_Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP03]]
+2018-05-21 23:01:25 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 23:01:28 INFO  DataManagerImplTest:34 - Number of Employees : [com.bizleap.commons.domain.Employee@4aedaf61[boId=EMP01,name=Alice Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP01], com.bizleap.commons.domain.Employee@173797f0[boId=EMP02,name=Bob Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@3c35c345[boId=EMP04,name=Smith,email=Smith@_gmailcom,phone=09-234319212,title=Developer,age=35,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@3681037[boId=EMP05,name=Bob Gilman,email=Bobgilman_@gmail.com,phone=09-658023212,title=Project Manager ,age=45,salary=600000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@2459319c[boId=EMP06,name=John Mark,email=JohnMark_@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP02], com.bizleap.commons.domain.Employee@1dc76fa1[boId=EMP03,name=John Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=500000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@5eed2d86[boId=EMP07,name=Alice_Kim,email=Alicekim@gmailcom,phone=09-234312212,title=Software Developer,age=33,salary=400000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@33d53216[boId=EMP08,name=Bob_Gilman,email=Bobgilman@gmail.com,phone=09-658023212,title=Project Manager,age=45,salary=600000,workForCompany=COMP03], com.bizleap.commons.domain.Employee@69a2b3b6[boId=EMP09,name=John_Mark,email=JohnMark@gmail.com,phone=09-343575684,title=Tester,age=39,salary=400000,workForCompany=COMP03]]
+2018-05-21 23:04:14 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 23:07:28 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 23:07:31 INFO  DataManagerImplTest:43 - Number of Companies : [com.bizleap.commons.domain.Company@20011bf[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@51d9b06c[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@5eb2172[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 23:10:28 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 23:10:31 INFO  DataManagerImplTest:43 - Number of Companies : [com.bizleap.commons.domain.Company@20011bf[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@51d9b06c[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@5eb2172[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 23:12:03 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 23:12:06 INFO  DataManagerImplTest:43 - Number of Companies : [com.bizleap.commons.domain.Company@20011bf[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@51d9b06c[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@5eb2172[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 23:13:37 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 23:13:40 INFO  DataManagerImplTest:43 - Number of Companies : [com.bizleap.commons.domain.Company@20011bf[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@51d9b06c[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@5eb2172[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
+2018-05-21 23:21:47 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-21 23:21:50 INFO  DataManagerImplTest:42 - Number of Companies : [com.bizleap.commons.domain.Company@702c436b[boId=COMP01,name=Apple,email=Apple@gmail.com,phone=7807907,address=US,ceo=Jhon], com.bizleap.commons.domain.Company@5833f5cd[boId=COMP02,name=IBM,email=IBM@gmail.com,phone=7423941,address=US,ceo=Thomas], com.bizleap.commons.domain.Company@10fbbdb[boId=COMP03,name=Adobe,email=Adobe@gmail.com,phone=5768954,address=US,ceo=Smith]]
